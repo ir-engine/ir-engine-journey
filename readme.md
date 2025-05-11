@@ -1,9 +1,9 @@
-# ir-static-build-template
+# ir-engine-journey
 
 Build the iR Engine client by itself from scratch.
 
 ## Live Example
-https://ir-engine.github.io/ir-static-build-template/
+https://ir-engine.github.io/ir-engine-journey/
 
 ## Getting started
 
